@@ -1,0 +1,53 @@
+🎨 Shared Visual Effects & Animations
+1. Hero Section
+Spotlight Animation: A dynamic spotlight effect highlights the introductory text, drawing user attention upon page load.​
+
+Background Gradients: Smooth linear gradients create a visually appealing backdrop, enhancing the modern aesthetic.​
+
+Text Fade-In: Introductory text elements fade into view, providing a seamless entrance effect.​
+
+2. About Section
+Scroll-Triggered Animations: Content elements slide or fade into view as the user scrolls, adding interactivity.​
+
+Icon Hover Effects: Technology stack icons respond to hover actions with scaling or color transitions, indicating interactivity.​
+
+3. Projects Section
+Project Card Hover Effects: Each project card scales up slightly and casts a more prominent shadow when hovered over, emphasizing interactivity.​
+Adrian Hajdin Portfolio
+
+Image Overlay Transitions: Project images have overlay effects that reveal additional information or links upon hover.​
+
+4. Navigation Bar
+Sticky Navigation: The navigation bar remains fixed at the top as users scroll, providing constant access to site sections.​
+
+Smooth Scroll Transitions: Clicking on navigation links smoothly scrolls to the respective section, enhancing navigation flow.​
+
+5. Contact Section
+Interactive Form Fields: Form inputs highlight with border animations when focused, guiding user interaction.​
+
+Submit Button Animation: The submit button exhibits a color change and slight scaling on hover, indicating it's clickable.​
+
+🧱 Backdrop & Background Effects
+1. Grid and Dot Patterns
+SVG Backgrounds: Subtle grid and dot patterns are implemented using SVGs to add texture without overwhelming the content.​
+
+2. Animated Background Elements
+Parallax Scrolling: Background elements move at a different speed compared to foreground content during scrolling, creating a parallax effect.​
+
+Floating Shapes: Decorative shapes or icons float or move subtly in the background, adding depth and dynamism.​
+
+⚙️ Technologies & Libraries Used
+Next.js: Framework for server-side rendering and building web applications.​
+
+Three.js: Library for creating and displaying animated 3D graphics in the browser.​
+GitHub
++2
+GitHub
++2
+Next.js Portfolio
++2
+
+Framer Motion: Library for declarative animations in React.​
+
+Tailwind CSS: Utility-first CSS framework for rapid UI development.​
+
